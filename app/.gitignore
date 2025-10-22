@@ -1,0 +1,39 @@
+# Android / Gradle
+.gradle/
+build/
+captures/
+local.properties
+*.iml
+.idea/
+.DS_Store
+
+# Logs
+*.log
+
+# Android Studio
+/.idea
+/.gradle
+/local.properties
+
+# Kotlin / Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files
+app/build/
+*/build/
+*/out/
+*.apk
+*.aab
+
+# Tests
+/reports/
+/coverage/
+/jacoco/
+
+# Misc
+*.keystore
+*.jks
+.env
